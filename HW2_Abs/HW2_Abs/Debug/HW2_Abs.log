@@ -1,0 +1,5 @@
+﻿  HW2_Abs.cpp
+C:\Users\Danll\source\repos\HW2_Abs\HW2_Abs\HW2_Abs.cpp(22,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Danll\source\repos\HW2_Abs\HW2_Abs\HW2_Abs.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Danll\source\repos\HW2_Abs\HW2_Abs\HW2_Abs.cpp(110,23): warning C4018: <: несоответствие типов со знаком и без знака
+  HW2_Abs.vcxproj -> C:\Users\Danll\source\repos\HW2_Abs\Debug\HW2_Abs.exe
